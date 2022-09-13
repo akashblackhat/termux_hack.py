@@ -1,2 +1,6 @@
-# termux_hack.py
-one click termux all pkg install
+# One Click All Pkg Inatall
+    pkg install python -y
+    pkg install git -y
+    
+# Use
+
